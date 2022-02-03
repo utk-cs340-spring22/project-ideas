@@ -11,7 +11,7 @@ The proposal should be about 1/2 page – 1 page in length and include:
 - who would buy/use this solution
 
 Submit the assignment by adding your proposal to the github repository https://github.com/utk-cs340-spring22/project-ideas/ in a file named by your netid. The file should be in either .md format or pdf format. Push this file directly the the repository rather than using a pull request. The following steps show how to push directly to the repository:
-1. Clone the repo: git clone https://github.com/civetweb/civetweb.git
+1. git clone https://github.com/civetweb/civetweb.git
 2. git add netid.md (replace netid with your actual netid)
 3. git commit -m "initial commit" netid.md
 4. git push
