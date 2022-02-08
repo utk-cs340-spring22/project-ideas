@@ -1,7 +1,15 @@
 # SMART FRIDGE/PANTRY APP
 ### Louise Fry  
 
-##### Fridge and pantry management apps have existed for a while. Theoretically they keep track of what you have in your inventory and help you find recipes you can cook with what you have on hand. However, they're not very practical for a serious cook.  Current apps make you scan the barcode of each item you have to add it to your inventory. This is TERRIBLE if you mostly buy produce or other fresh farmer's market/bulk stuff that lacks bar codes. They also lack the ability to mark a recipe as "cooked" and  decrements the ingredients accordingly. My project idea would implement both of these things and more, improving upon existing models.   
+##### Fridge and pantry management apps have existed for a while. 
+##### Theoretically they keep track of what you have in your inventory 
+##### and help you find recipes you can cook with what you have on hand. 
+###### However, they're not very practical for a serious cook.  
+###### Current apps make you scan the barcode of each item you have to add it to your inventory. 
+###### This is TERRIBLE if you mostly buy produce or other fresh farmer's market/bulk stuff 
+###### that lacks bar codes. They also lack the ability to mark a recipe as "cooked" 
+###### and decrements the ingredients accordingly. 
+###### My project idea would implement both of these things and more, improving upon existing models.
 
 - Scan reciept from the store to update inventory (This does NOT exist in current apps! Exciting! 
    There are APIs that scan reciepts which I would be interested in using, 
