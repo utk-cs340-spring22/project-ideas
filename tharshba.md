@@ -1,0 +1,5 @@
+# Taegun Harshbarger
+## Project Idea -- Cryptid Tracker
+#
+
+My idea is Cryptid Tracker. Cryptid Tracker will be an app that allows users to cite where they have had supernatural encounters. The app will have a map where users can pin encounters, and it will also have a Yik-Yak style location-based board about cryptids close to the user. This app will fill a hole in the market. There is no app that allows users to find and cite supernatural encounter. Now, people can know where to look to find their supernatural fiends. The biggest features will be the map that shows supernatural encounters and the message board that shows cryptids near you. The plan is to use swift and XCode to create the app and publish it on the apple app store. I will also use some type of geolocation service to set up the map and the user’s location on the map. This app will be used by anyone who is interested in the supernatural or has experienced something spooky. It can be used by people of all ages. Anyone interested in cryptids and the supernatural will flock to the app and use it. 
