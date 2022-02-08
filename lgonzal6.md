@@ -4,12 +4,13 @@
 ### Summary
 ---
 
-World of Code is a project that has been in development by Dr. Mockus and several undergraduate and graduate researchers. As per their website description, WoC makes it possible to get stratified samples from the entirety of OSS, measure cross-project code flow and developer/code networks, conduct code or developer census. Additionally, WoC also provides deforking of repositories and aliasing of author IDs. The idea is to help improve a tool that makes research on global properties of Open Source Software possible.
+World of Code is a project that has been in development by Dr. Mockus and several undergraduate and graduate researchers. As per their website description, WoC makes it possible to get stratified samples from the entirety of Open Source Software (OSS), measure cross-project code flow and developer/code networks, conduct code or developer census. Additionally, WoC also provides deforking of repositories and aliasing of author IDs. The idea is to help improve a tool that makes research on global properties of OSS possible.
+
 
 ### Project Idea
 ---
 
-Professor Reid has been working in a tool to add for the WoC. The tool consist in a toolbar where a user is able to enter a vulnerability name. The tool will then pull OSS that has the vulnerability and has yet to be corrected. This application for WoC has been in works and operation for the back-end. WoC is a website that utilizes the Reach framework, so the idea is to set a front end side for the tool in the WoC website and to further develop the application for better functionalites. 
+Professor Reid has been working on a functionality tool for WoC. The tool consist in a toolbar where a user is able to enter a vulnerability name. The tool will then pull OSS that has such vulnerability and has yet to be corrected. This application for WoC has been in works and operation for the back-end. WoC is a website that utilizes the Reach framework, so the idea is to set a front end side for the tool in the WoC website and to further develop the application for better functionalites. 
 
 ### Problem
 ---
