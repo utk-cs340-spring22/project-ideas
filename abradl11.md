@@ -6,30 +6,37 @@
 
 ## Proposal
 
-A web service that helps aspiring developers find open source projects on GitHub to contribute to.
+A web service that helps developers find open source projects on GitHub they are interested in to help developers gain experience and grow the open source community.
 
 ## Rational
 
-More and more developers are gaining their skills from online resources.
-However, there can be this limbo phase, called "tutorial hell", where maybe a developer has acquired enough skill to get a job, but does not have any actual experience yet.
-This service would help pair new developers or even experienced developers in transitioning to find new projects that capture their interest and help them move onto the next phase.
+### Job Experience
 
-### Why GitHub?
+More and more developers are gaining their skills from online resources. However, there can be this limbo phase, called "tutorial hell", where a developer has acquired enough skill to get a job, but they do not have the "experience" they need. It could help them to find projects to work to gain job experience.
+It could also help developers looking to branch out and try something new.
 
-GitHub is one of the most popular spots for developers and open source projects on the internet. There are tons of developers and open source projects to pool from.
-GitHub also has rich first party [APIs](https://docs.github.com/en/graphql) that would provide lots of information about develops and projects an ML algorithm could use to find matches.
+### Open Source Networking
+
+Many developers spend their whole career working on open source projects. It could be used as a networking tool to connect them with other open source projects to expand their community outreach.
+
+### Why GitHub
+
+GitHub is one of the most popular spots for developers and open source projects. It is the biggest pool of developers and projects on the internet. GitHub has rich first party [APIs](https://docs.github.com/en/graphql) that provide lots of information about developers and projects an algorithm could use to create matches.
 
 ## Features
 
-- The user could login with their GitHub account and allow access to their information.
-- Some sort of ML algorithm to use the developers's information to find projects.
-- A curated feed of open source GitHub projects the user could browse through.
-- A page of information about the projects so the user does not have to leave the app.
-- A preferences pane to tweak the results of the search algorithm.
-- A way for the user to favorite projects they like to view for later and maybe some way to organize them.
-- A database with user accounts, API tokens, liked projects, and maybe cached search results.
+Would try not to reinvent the wheel for features GitHub and other social media services already provide.
 
-## Technology
+- A user can log in and authorize access to their GitHub account (OAuth).
+- A database with user accounts, API tokens, liked projects, user preferences, and maybe cached search results.
+- A simple algorithm on the server to match developers with projects.
+- A feed of open source GitHub projects a user can browse through.
+- _(optional)_ A page of information about the projects so the user does not have to leave the app.
+- _(optional)_ A way for the user to favorite projects they like to view for later and maybe some way to organize them.
+- _(optional)_ An advanced ML algorithm that uses lots of GitHub data to produced optimized results.
+- _(optional)_ A preferences pane to tweak the results of the search algorithm.
+
+## Technologies
 
 - Frontend framework: Svelte, React
 - Backend: Rust, NodeJS, Flask
@@ -41,4 +48,4 @@ GitHub also has rich first party [APIs](https://docs.github.com/en/graphql) that
 
 ## Consumers
 
-Inexperienced developers, developers looking for something new, or people just interested in open source.
+Inexperienced developers, developers looking for something new, or open source community members.
