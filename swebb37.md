@@ -11,6 +11,7 @@ This program is mostly for image editing purposes, so if you want to create an i
 * Edit images
 * Create images (paint)
 * Save and load images
+* Customize brushes
 
 ## Languages
 * C++
