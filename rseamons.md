@@ -1,0 +1,17 @@
+# **Baseball Sports Betting App**
+- Summary
+  - Goal is to build an app that webscraped game lines of MLB baseball games from certain sports betting sites 
+- Problem Solved
+  - The app would give users a mathematical analysis of the game lines vs the in app game lines created by the algorithm
+- Major Features:
+  - Summary of best bets of the day
+  - table showing difference between casino's lines and app's lines
+  - historical tracking of win/loss ratio
+  - show which teams are consistently winning 
+- Languages and Tools
+  - Python
+  - Webscraping 
+  - Advanced Math capabilities
+- Potential Users 
+  - Sports betters
+  - Sports fans
