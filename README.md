@@ -10,10 +10,12 @@ The proposal should be about 1/2 page – 1 page in length and include:
 - what languages, tool sets, third-party code, etc you plan to use
 - who would buy/use this solution
 
-Submit the assignment by adding your proposal to the github repository https://github.com/utk-cs340-spring22/project-ideas/ in a file named by your netid. The file should be in either .md format or pdf format. Push this file directly the the repository rather than using a pull request. The following steps show how to push directly to the repository:
+Submit the assignment by adding your proposal to the github repository https://github.com/utk-cs340-spring22/project-ideas/ in a file named by your netid. The file should be in either .md format or pdf format. Push this file directly to the repository rather than using a pull request. The following steps show how to push directly to the repository:
 1. git clone git@github.com:utk-cs340-spring22/project-ideas.git
 2. git add netid.md (replace netid with your actual netid)
 3. git commit -m "initial commit" netid.md
 4. git push
 
-You need to be a member of the class github page (utk-cs340-spring22) to push to that repository. You should have received an invitation to join. Once you join, you can push to the project-ideas repository. If you did not get an invitation, send me an email at dreid6@vols.utk.edu with your github id and I'll add you. 
+You need to be a member of the class github page (utk-cs340-spring22) to push to that repository. You should have received an invitation to join by email. You can also go to https://github.com/utk-cs340-spring22, it should show a box at the top that says you were invited you to join the utk-cs340-spring22 organization. There is a button that says "View Invitation". Click on that button and it will allow you to accept the invite and join the group.
+
+Once you join, you can push to the project-ideas repository. If you did not get an invitation and can't see the invite at https://github.com/utk-cs340-spring22, send me an email at dreid6@vols.utk.edu with your github id and I'll add you. 
