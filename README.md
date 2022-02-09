@@ -16,4 +16,6 @@ Submit the assignment by adding your proposal to the github repository https://g
 3. git commit -m "initial commit" netid.md
 4. git push
 
-You need to be a member of the class github page (utk-cs340-spring22) to push to that repository. You should have received an invitation to join. Once you join, you can push to the project-ideas repository. If you did not get an invitation, send me an email at dreid6@vols.utk.edu with your github id and I'll add you. 
+You need to be a member of the class github page (utk-cs340-spring22) to push to that repository. You should have received an invitation to join by email. You can also go to https://github.com/utk-cs340-spring22, it should show a box at the top that says you were invited you to join the utk-cs340-spring22 organization. There is a button that says "View Invitation". Click on that button and it will allow you to accept the invite and join the group.
+
+Once you join, you can push to the project-ideas repository. If you did not get an invitation and can't see the invite at https://github.com/utk-cs340-spring22, send me an email at dreid6@vols.utk.edu with your github id and I'll add you. 
