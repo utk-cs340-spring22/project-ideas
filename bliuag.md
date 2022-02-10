@@ -33,3 +33,6 @@ Some tools immediately apparent to the project...
 -Javascript for API
 -Swift or some other mobile development software (if decide
  to go mobile app route.)
+
+Please Contact Me at bliuag@vols.utk.edu
+or on discord as Blaine Liuag
