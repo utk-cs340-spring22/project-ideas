@@ -1,0 +1,11 @@
+# Project Idea
+
+When I was taking physics classes for my gen ed requirements I was constantly frustrated with having to work out complex problems for online homework. The problems were too complicated to be done in your head, but they were all so similar that it was tedious and time consuming to work them on paper. A resource that could solve this is a dedicated online scratch paper. While there are already many tools online to help you solve problems (wolframalpha, desmos, etc) they are much more concerned about the math and being able to interpret the input, thus restricting freedom of use. I would like to build a webpage where you can work problems on a virtual paper with a suite of tools that benefit from the online format. 
+
+### Features
+    - Writing and printing : Users will be able to draw on the canvas with paint tools or print with text. Both text and drawings can be placed into text boxes that can be moved on the page for orginaztion.
+    - Formula Blocks : Users will be able to create and move blocks that contain user-defined functions and equations. With specified input and output variables users can repeat the same or similar calculations multiple times without having to rewrite the whole equation, while keeping the previous calculations on the page. 
+    - Formula Piping : For multi-step problems, users can pipe the output of one formula block into the input of another. Rather than having to substitute and simplify, instead hook up the series of formula blocks to produce the correct output at the end.
+
+#### Details
+This tools will help with completing any task that requires dynamic visualization, but specifically math problems. The flexibility of the display with the interacting features will hopefully make completing the problems easier and faster. In order to build this, I would likely use javascript and html, if I was interested in a web version, or c++ for an application. The target audience would be students, or anyone in need of a visualization tool for computation.
